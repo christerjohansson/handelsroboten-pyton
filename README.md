@@ -11,6 +11,8 @@
 
 This bot is developed and deployed based on a algorithmic trading bot that runs 24/7 on a Raspberry Pi. The bot implements a simple moving average crossover strategy to trade stocks and cryptocurrencies. The project involved data fetching, strategy implementation, backtesting, and automation. Once you are able to understand this you can expand on this by adding more advanced strategies, risk management techniques, and real-time data analysis.
 
+<img src="/images/header.jpg" alt="Picture of USB 2.0 card reader" width="640">
+
 ------------------------------------------------------------------------------------------
 
 **ABOUT RASPBERRY PI -**
