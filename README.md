@@ -42,9 +42,9 @@ Unlike any Arduino models, you dont have to connect raspberry pie to a computer/
 
   ![Picture of Raspberry Pi 4](/images/raspberry-pi.png)
 
-  ![Picture of USB 2.0 card reader](/images/raspberry-pi-cardreader-1.jpg)
+  ![Picture of USB 2.0 card reader](/images/raspberry-pi-cardreader-1.jpg){ width=50%}
 
-  ![Picture of Mini sd card](/images/sandisk-32-gb-card.jpg)
+  ![Picture of Mini sd card](/images/sandisk-32-gb-card.jpg){ width=30% }
 
 - Software: Raspbian OS, SSH, cron jobs. 
 - APIs: Yahoo Finance (yfinance) for stock data, CCXT for cryptocurrency data or (If you want to trade in forex, ill suggest ForexConnect API- Provided by OANDA), Alpaca API for stock trading.
